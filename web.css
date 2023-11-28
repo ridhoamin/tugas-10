@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    }
+    
+    .TEKNOLOGI {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    }
+    
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    }
+    
+    .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+    * {
+        box-sizing: border-box;
+        }
+             .New {
+             float: left;
+             width: 40.33%;
+             padding: 15px;
+        }
+              .Dor:after {
+             content: "";
+             display: table;
+             clear: both;
+        }
+    
+        @media screen and (max-width:600px) {
+        .kolom {
+        width: 100%;
+        }
+        }
+        * {
+            box-sizing: border-box;
+        }
+            body {
+            margin: 0;
+            }
+            
+            .TEKNOLOGI {
+                background-image: url(teknologi.jpeg);
+                width: 250px;
+                padding: 20px;
+            text-align: center;
+            }
+            
+                .topnav {
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            .topnav a {
+                float: left;
+                display: block;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                }
+
+                .topnav a:hover {
+                background-color: #ddd;
+                color: black;
+                }
+            .New {
+            float: left;
+            padding: 10px;
+            }
+
+                .New.side {
+                width: 25%;
+                }
+                .New.middle {
+                width: 50%;
+                }
+
+                    .Dor:after {
+                    content: "";
+                    display: table;
+                    clear: both;
+                    }
+
+                    @media screen and (max-width: 600px) {
+                    .New.side, .New.middle {
+                width: 100%;
+                }
+                }
+
+                #A{
+                    background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(teknologi.jpeg);
+                    background-position: center;
+                     background-size: cover;
+                    background-repeat: no-repeat;
+                    color:white;
+                    
+                }
+                #B{
+                    background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(monitor.jpeg);
+                    background-position: center;
+                     background-size: cover;
+                    background-repeat: no-repeat;
+                    color:white;
+                   .New{
+                    float: left;
+                    width: 40.33%;
+                    padding: 10px;
+                    color: #fff;
+                   }
+                }
+                #C{
+                    background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(windows.jpeg);
+                    background-position: center;
+                     background-size: cover;
+                    background-repeat: no-repeat;
+                    color:white;
+
+                }
+                #D{
+                    background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(CPU.jpeg);
+                    background-position: center;
+                     background-size: cover;
+                    background-repeat: no-repeat;
+                    color:white;
+                }
+                #E{background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(RAM.jpeg);
+                    background-position: center;
+                     background-size: cover;
+                    background-repeat: no-repeat;
+                    color:white;
+
+                }
+
+
+
+                .footer {
+                    background-color: #f1f1f1;
+                    padding: 10px;
+                    text-align: center;
+                    }
+                    Tambahkan pada file html
+                    <div class="footer">
+                    <p>Footer</p>      
+             </div>
+            
